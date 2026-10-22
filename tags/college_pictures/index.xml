@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>College_Pictures on Poonam Bagga Profile</title>
+		<link>http://localhost:1313/tags/college_pictures/</link>
+		<description>Recent content in College_Pictures on Poonam Bagga Profile</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 03 Apr 2021 23:29:21 +0530</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/college_pictures/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>College_Pictures</title>
+				<link>http://localhost:1313/blogs/new/</link>
+				<pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
+				<guid>http://localhost:1313/blogs/new/</guid>
+				<description>&lt;h2 id=&#34;paragraph&#34;&gt;Paragraph&lt;/h2&gt;&#xA;&lt;p&gt;Hi, this is Poonam&lt;/p&gt;&#xA;&lt;p&gt;Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.&lt;/p&gt;&#xA;&lt;h2 id=&#34;blockquotes&#34;&gt;Blockquotes&lt;/h2&gt;&#xA;&lt;p&gt;The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a &lt;code&gt;footer&lt;/code&gt; or &lt;code&gt;cite&lt;/code&gt; element, and optionally with in-line changes such as annotations and abbreviations.&lt;/p&gt;&#xA;&lt;h3 id=&#34;blockquote-without-attribution&#34;&gt;Blockquote without attribution&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Tiam, ad mint andaepu dandae nostion secatur sequo quae.&#xA;&lt;strong&gt;Note&lt;/strong&gt; that you can use &lt;em&gt;Markdown syntax&lt;/em&gt; within a blockquote.&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+			</item>
+	</channel>
+</rss>
