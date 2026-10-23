@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>The Roadmap on Poonam Bagga Profile</title>
-		<link>https://githubpoonambagga.github.io/blogs/poonam_theroadmap/</link>
+		<link>http://localhost:1313/blogs/poonam_theroadmap/</link>
 		<description>Recent content in The Roadmap on Poonam Bagga Profile</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,6 +12,6 @@
 		
 			<lastBuildDate></lastBuildDate>
 		
-			<atom:link href="https://githubpoonambagga.github.io/blogs/poonam_theroadmap/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/blogs/poonam_theroadmap/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>
