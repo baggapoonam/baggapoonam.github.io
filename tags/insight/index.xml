@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Insight on Poonam Bagga Profile</title>
+		<link>http://localhost:1313/tags/insight/</link>
+		<description>Recent content in Insight on Poonam Bagga Profile</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 25 Oct 2026 11:38:21 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/insight/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Building Trust</title>
+				<link>http://localhost:1313/blogs/trust/</link>
+				<pubDate>Sun, 25 Oct 2026 11:38:21 +0000</pubDate>
+				<guid>http://localhost:1313/blogs/trust/</guid>
+				<description>&lt;h2 id=&#34;building-trust-through-data&#34;&gt;Building Trust Through Data&lt;/h2&gt;&#xA;&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;When I first began my data analytics journey, I believed trust came from accurate calculations, dashboards, and technical skills. Over time, I realized that trust is not created by data alone. It is built when people understand the information, believe the evidence, and feel confident using trust to make decisions.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Trust is the bridge between data and action.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;An analyst may create an excellent report, but if stakeholders do not trust the findings, the analysis has little impact.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Beyond the Login</title>
+				<link>http://localhost:1313/blogs/ethics_blog/</link>
+				<pubDate>Wed, 21 Oct 2026 21:29:21 +0000</pubDate>
+				<guid>http://localhost:1313/blogs/ethics_blog/</guid>
+				<description>&lt;h2 id=&#34;can-anonymous-surveys-be-truly-anonymous&#34;&gt;Can Anonymous Surveys Be Truly Anonymous?&lt;/h2&gt;&#xA;&lt;p&gt;Before studying Data Analytics at TRIOS College, I believed that successful analysis depended mainly on technical skills such as Excel, SQL, data visualization, and statistical methods. This week&amp;rsquo;s study of data ethics changed my perspective. I learned that even the most sophisticated analysis can produce misleading results if ethical concerns affect the quality of the data being collected.&lt;/p&gt;&#xA;&lt;p&gt;One case that stood out involved a course evaluation survey. Students are required to log in using their username and password to access the survey, yet they are told that their responses will remain anonymous. As the data analyst responsible for providing recommendations to executive management, I must determine whether the survey data can be trusted and whether ethical concerns could affect the results.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Asking Right Questions</title>
+				<link>http://localhost:1313/blogs/asking_right_questions/</link>
+				<pubDate>Tue, 20 Oct 2026 07:27:30 +0000</pubDate>
+				<guid>http://localhost:1313/blogs/asking_right_questions/</guid>
+				<description>&lt;h2 id=&#34;understanding-the-problem&#34;&gt;Understanding the problem&lt;/h2&gt;&#xA;&lt;p&gt;One of the most valuable lessons I have learned throughout my career is that successful analysis starts with understanding the problem. Before working with data, I focus on understanding business problem, objectives, stakeholder needs, and the decisions that need to be made.&lt;/p&gt;&#xA;&lt;h2 id=&#34;asking-questions&#34;&gt;Asking Questions&lt;/h2&gt;&#xA;&lt;p&gt;WHY ASKING BETTER QUESTIONS MATTERS MORE THAN HAVING THE RIGHT ANSWERS&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;What happened? Why did it happen? What should we do next?&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Learning analytics reinforced what my experience had already taught me that asking the right questions often matters more than finding quick answers. Data can reveal what is happening, but thoughtful questions help uncover why it is happening.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

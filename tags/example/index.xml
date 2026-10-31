@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Example on Poonam Bagga Profile</title>
+		<link>http://localhost:1313/tags/example/</link>
+		<description>Recent content in Example on Poonam Bagga Profile</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 26 Oct 2026 16:00:33 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/example/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Beyond the Dashboard</title>
+				<link>http://localhost:1313/blogs/beyond_dashboard/</link>
+				<pubDate>Mon, 26 Oct 2026 16:00:33 +0000</pubDate>
+				<guid>http://localhost:1313/blogs/beyond_dashboard/</guid>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Many people associate data analytics with dashboards, reports, and charts. Yet the dashboard is often the smallest part of the analyst&amp;rsquo;s work.&lt;/p&gt;&#xA;&lt;p&gt;Behind every metric, trend line, and KPI (Key Performance Indicator) lies a series of questions, investigations, validations, and business decisions. Before a chart reaches an executive meeting, an analyst has already spent hours understanding the problem, examining the data, and determining whether the results can be trusted.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

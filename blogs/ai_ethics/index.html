@@ -1,0 +1,773 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta http-equiv="Accept-CH" content="DPR, Viewport-Width, Width">
+<link rel="icon" href="/pblogo.png" type="image/gif">
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload"
+      as="style"
+      href="https://fonts.googleapis.com/css2?family=Alata&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+>
+<link rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Alata&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+      media="print" onload="this.media='all'" />
+<noscript>
+  <link
+          href="https://fonts.googleapis.com/css2?family=Alata&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+          rel="stylesheet">
+</noscript>
+
+
+<link rel="stylesheet" href="/css/font.css" media="all">
+
+
+
+<meta property="og:url" content="http://localhost:1313/blogs/ai_ethics/">
+	<meta property="og:site_name" content="Poonam Bagga Profile">
+	<meta property="og:title" content="The Hidden Cost of AI">
+	<meta property="og:description" content="Ethical AI">
+	<meta property="og:locale" content="en_us">
+	<meta property="og:type" content="article">
+		<meta property="article:section" content="blogs">
+		<meta property="article:published_time" content="2026-10-30T11:18:21+00:00">
+		<meta property="article:modified_time" content="2026-10-30T11:18:21+00:00">
+		<meta property="article:tag" content="AI Ethics">
+		<meta property="article:tag" content="Data Analysis">
+		<meta property="article:tag" content="Environmental Impact">
+		<meta property="article:tag" content="Meta">
+
+
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:title" content="The Hidden Cost of AI">
+	<meta name="twitter:description" content="Ethical AI">
+
+
+
+
+  
+    <link rel="alternate" hreflang="en" href="http://localhost:1313/blogs/ai_ethics/" title="English">
+  
+  
+  <meta property="og:locale" content="en">
+  
+
+
+<link rel="stylesheet" href="/bootstrap-5/css/bootstrap.min.css" media="all"><link rel="stylesheet" href="/css/header.css" media="all">
+<link rel="stylesheet" href="/css/language-switcher.css" media="all">
+<link rel="stylesheet" href="/css/footer.css" media="all">
+
+
+<link rel="stylesheet" href="/css/theme.css" media="all">
+
+<style>
+    :root {
+        --text-color: #343a40;
+        --text-secondary-color: #6c757d;
+        --text-link-color: #007bff;
+        --background-color: #eaedf0;
+        --secondary-background-color: #64ffda1a;
+        --primary-color: #007bff;
+        --secondary-color: #f8f9fa;
+
+         
+        --text-color-dark: #e4e6eb;
+        --text-secondary-color-dark: #b0b3b8;
+        --text-link-color-dark: #ffffff;
+        --background-color-dark: #18191a;
+        --secondary-background-color-dark: #212529;
+        --primary-color-dark: #ffffff;
+        --secondary-color-dark: #212529;
+    }
+    body {
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        text-align: left;
+    }
+
+    html {
+        background-color: var(--background-color) !important;
+    }
+
+    body::-webkit-scrollbar {
+        height: 0px;
+        width: 8px;
+        background-color: var(--background-color);
+    }
+
+    ::-webkit-scrollbar-track {
+        border-radius: 1rem;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        border-radius: 1rem;
+        background: #b0b0b0;
+        outline: 1px solid var(--background-color);
+    }
+
+    #search-content::-webkit-scrollbar {
+        width: .5em;
+        height: .1em;
+        background-color: var(--background-color);
+    }
+</style>
+
+
+
+<meta name="description" content="Ethical AI">
+<link rel="stylesheet" href="/css/single.css">
+
+
+<script defer src="/fontawesome-6/all-6.4.2.js"></script>
+
+
+  
+  
+
+  <title>
+The Hidden Cost of AI | Poonam Bagga Profile
+
+  </title>
+</head>
+
+<body class="light">
+  
+  
+<script>
+    let localStorageValue = localStorage.getItem("pref-theme");
+    let mediaQuery = window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+    switch (localStorageValue) {
+        case "dark":
+            document.documentElement.classList.add('dark');
+            document.body.classList.add('dark');
+            break;
+        case "light":
+            document.body.classList.remove('dark');
+            document.documentElement.classList.remove('dark');
+            break;
+        default:
+            if (mediaQuery) {
+                document.documentElement.classList.add('dark');
+                document.body.classList.add('dark');
+            }
+            break;
+    }
+</script>
+
+
+
+
+<script>
+    var prevScrollPos = window.pageYOffset;
+    window.addEventListener("scroll", function showHeaderOnScroll() {
+        let profileHeaderElem = document.getElementById("profileHeader");
+        let currentScrollPos = window.pageYOffset;
+        let resetHeaderStyle = false;
+        let showNavBarOnScrollUp =  true ;
+        let showNavBar = showNavBarOnScrollUp ? prevScrollPos > currentScrollPos : currentScrollPos > 0;
+        if (showNavBar) {
+            profileHeaderElem.classList.add("showHeaderOnTop");
+        } else {
+            resetHeaderStyle = true;
+        }
+        if(currentScrollPos === 0) {
+            resetHeaderStyle = true;
+        }
+        if(resetHeaderStyle) {
+            profileHeaderElem.classList.remove("showHeaderOnTop");
+        }
+        prevScrollPos = currentScrollPos;
+    });
+</script>
+
+
+
+<header id="profileHeader">
+    <nav class="pt-3 navbar navbar-expand-lg animate">
+        <div class="container-fluid mx-xs-2 mx-sm-5 mx-md-5 mx-lg-5">
+            
+            <a class="navbar-brand primary-font text-wrap" href="/">
+                
+                <img src="/pblogo.png" width="30" height="30"
+                    class="d-inline-block align-top">
+                Poonam Bagga Profile
+                
+            </a>
+
+            
+                <div>
+                    <input id="search" autocomplete="off" class="form-control mr-sm-2 d-none d-md-block" placeholder='Search...'
+                        aria-label="Search" oninput="searchOnChange(event)">
+                </div>
+            
+
+            
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent"
+                aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
+                <svg aria-hidden="true" height="24" viewBox="0 0 16 16" version="1.1" width="24" data-view-component="true">
+                    <path fill-rule="evenodd" d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z"></path>
+                </svg>
+            </button>
+
+            
+            <div class="collapse navbar-collapse text-wrap primary-font" id="navbarContent">
+                <ul class="navbar-nav ms-auto text-center">
+                    
+                        <li class="nav-item navbar-text d-block d-md-none">
+                            <div class="nav-link">
+                                <input id="search" autocomplete="off" class="form-control mr-sm-2" placeholder='Search...' aria-label="Search" oninput="searchOnChange(event)">
+                            </div>
+                        </li>
+                    
+
+                    
+                    <li class="nav-item navbar-text">
+                        <a class="nav-link" href="/#about" aria-label="about">
+                            About Me
+                        </a>
+                    </li>
+                    
+
+                    
+
+                    
+
+                    
+                    <li class="nav-item navbar-text">
+                        <a class="nav-link" href="/#projects"
+                            aria-label="projects">
+                            Projects
+                        </a>
+                    </li>
+                    
+
+                    
+
+                    
+                    <li class="nav-item navbar-text">
+                        <a class="nav-link" href="/#contact"
+                            aria-label="contact">
+                            Contact
+                        </a>
+                    </li>
+                    
+
+                    
+
+                    
+                    
+                    
+                    
+                    <li class="nav-item navbar-text">
+                        <a class="nav-link" href="/blogs" title="Blog posts">
+                            
+                            Blog
+                        </a>
+                    </li>
+                    
+                    
+                    
+                    
+                    <li class="nav-item navbar-text">
+                        <a class="nav-link" href="/gallery" title="Image gallery">
+                            
+                            Gallery
+                        </a>
+                    </li>
+                    
+                    
+<li class="nav-item navbar-text dropdown">
+    <a class="nav-link dropdown-toggle" href="#" id="languageDropdown" role="button"
+        data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        
+            🌐
+            <span class="d-none d-md-inline">English</span>
+        
+    </a>
+    <div class="dropdown-menu shadow-lg rounded" aria-labelledby="languageDropdown"><a class="dropdown-item text-center nav-link active" 
+               href="/" 
+               title="English">
+                English
+            </a><a class="dropdown-item text-center nav-link" 
+               href="/es/" 
+               title="Español">
+                Español
+            </a><a class="dropdown-item text-center nav-link" 
+               href="/fr/" 
+               title="Français">
+                Français
+            </a></div>
+</li>
+
+
+                    <li class="nav-item navbar-text">
+                        
+                        <div class="text-center">
+                            <button id="theme-toggle" type="button" aria-label="Toggle dark mode">
+                                <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                                </svg>
+                                <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <circle cx="12" cy="12" r="5"></circle>
+                                    <line x1="12" y1="1" x2="12" y2="3"></line>
+                                    <line x1="12" y1="21" x2="12" y2="23"></line>
+                                    <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                                    <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                                    <line x1="1" y1="12" x2="3" y2="12"></line>
+                                    <line x1="21" y1="12" x2="23" y2="12"></line>
+                                    <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                                    <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                                </svg>
+                            </button>
+                        </div>
+                    </li>
+                    
+
+                </ul>
+
+            </div>
+        </div>
+    </nav>
+</header>
+<div id="content">
+<section id="single">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-sm-12 col-md-12 col-lg-9">
+        <div class="pr-lg-4">
+          <div class="title mb-5">
+            <h1 class="text-center mb-4">The Hidden Cost of AI</h1>
+            <div class="text-center">
+              
+                Poonam Bagga
+                <small>|</small>
+              
+              Oct 30, 2026
+
+              
+            </div>
+          </div>
+          
+          <div class="featured-image">
+            <img class="img-fluid mx-auto d-block" src="/images/AI_blog.png" alt="The Hidden Cost of AI">
+          </div>
+          
+          <article class="page-content  p-2">
+          <h2 id="what-metas-georgia-data-center-teaches-us-about-ethical-ai">What Meta&rsquo;s Georgia Data Center Teaches Us About Ethical AI</h2>
+<blockquote>
+<p>Artificial intelligence may seem virtual, but every AI model depends on physical infrastructure, real resources, and real communities.</p>
+</blockquote>
+<h3 id="introduction">Introduction</h3>
+<p>Artificial intelligence <code>(AI)</code> is frequently associated with ethical concerns such as algorithmic bias, privacy violations, surveillance, and misinformation. While these issues dominate public discussions, they often overlook a less visible but equally important component of AI: the physical infrastructure that makes AI possible.</p>
+<p>Large language models, chatbots, recommendation system, and generative AI applications depend on massive data centers. These facilities require substantial amounts of electricity, water, cooling systems, land, and computing resources to operate.
+As technology companies invest billions of dollars into AI development, the environmental and social consequences of these facilities are becoming increasingly significant. This shift raises an important question:</p>
+<blockquote>
+<p>Should AI ethics focus only on the behavior of algorithms, or should it also consider the infrastructure that supports them?</p>
+</blockquote>
+<blockquote>
+<p>Can AI truly be considered ethical if the infrastructure supporting it harms local communities?</p>
+</blockquote>
+<p>This question sits at the heart of the controversy surrounding the Meta data center project in Georgia, a case that reveals why AI ethics must extend beyond algorithms and into the physical world.</p>
+<h3 id="the-families-behind-the-headlines">The Families Behind the Headlines</h3>
+<p>For many people, AI is associated with innovation and technological progress.</p>
+<p>For several families living near the <code> Meta Stanton Springs Data Center</code>, however, the conversation became much more personal. According to legal filings, four Georgia families alleged that construction activities associated with the project negatively affected their well water and quality of life.</p>
+<p>Residents reported discolored water, sediment contamination, reduced water pressure, dust pollution, construction noise, and declining property values. These concerns were later included in legal actions against the project. [USA Today] The homeowners claimed they felt <code>trapped</code> because their properties relied on private wells and could not easily be abandoned. <code>[usatoday.com], [greyjournal.net]</code></p>
+<p>Meta has denied responsibility and cited studies suggesting its activities were unlikely to have caused the reported problems. The legal case remains disputed. <code>[usatoday.com]</code></p>
+<p>However, regardless of how the lawsuit is resolved, the controversy highlights an important ethical issue:</p>
+<blockquote>
+<h5 id="who-bears-the-costs-of-ai-innovation">Who bears the costs of AI innovation?</h5>
+</blockquote>
+<p>Millions of people benefit from AI-powered services, yet the environmental and community impacts of the infrastructure supporting those systems are often concentrated in a few local communities.</p>
+<h3 id="looking-beyond-the-algorithm">Looking Beyond the Algorithm</h3>
+<p>A major theme in Luciano Floridi&rsquo;s work is that technology should be evaluated based on its effects on society, not simply whether it works efficiently.</p>
+<p>Too often, organizations focus on whether an AI system performs well technically while overlooking broader consequences for stakeholders.</p>
+<p>In this case, the ethical challenge is not an algorithm making a biased decision. The ethical challenge is the impact of AI infrastructure itself.</p>
+<blockquote>
+<p>The controversy reminds us that ethical AI is not only about what algorithms do. It is also about what must be built so those algorithms can exist.</p>
+</blockquote>
+<h3 id="beneficence-does-ai-create-more-good-than-harm">Beneficence: Does AI Create More Good Than Harm?</h3>
+<p>One of Luciano Floridi&rsquo;s central ethical principles is Beneficence, which asks whether technology promotes human well-being.</p>
+<p>Looking at the Meta project, there are undeniable benefits:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>  •	New technology investment
+</span></span><span style="display:flex;"><span>  •	Economic development
+</span></span><span style="display:flex;"><span>  •	Job creation
+</span></span><span style="display:flex;"><span>  •	Expanded digital infrastructure
+</span></span><span style="display:flex;"><span>  •	Increased AI capability
+</span></span></code></pre></div><p>The facility supports systems that may improve productivity, communication, and access to digital services for millions of people.From this perspective, the project contributes positively to society.</p>
+<p>However, beneficence alone is not enough. An ethical evaluation must also ask whether those benefits come at an unacceptable cost.</p>
+<blockquote>
+<p>Technology can generate significant value while still creating ethical concerns for specific communities.</p>
+</blockquote>
+<h3 id="non-maleficence-the-duty-to-avoid-harm">Non-Maleficence: The Duty to Avoid Harm</h3>
+<p>The second principle, non-maleficence, is often summarized as &ldquo;do no harm.&rdquo;
+This principle becomes particularly important when examining the concerns raised by Georgia residents.</p>
+<p>Whether or not investigations ultimately establish direct responsibility, the complaints themselves reveal why organizations should carefully assess environmental risks before construction begins. <code>[usatoday.com], [greyjournal.net]</code></p>
+<p>Ethically responsible organizations should not simply wait until a problem occurs. Instead, they should ask:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>•	What could go wrong? 
+</span></span><span style="display:flex;"><span>•	Who could be affected? 
+</span></span><span style="display:flex;"><span>•	How can potential harm be minimized?
+</span></span></code></pre></div><p>This is especially important for Artificial Intelligence because many discussions focus exclusively on digital harm while ignoring physical harm to communities.</p>
+<blockquote>
+<p>Responsible AI begins long before an algorithm is trained. It starts when organizations decide how and where to build the infrastructure that powers AI.</p>
+</blockquote>
+<h3 id="justice-the-most-important-question">Justice: The Most Important Question</h3>
+<p>Among all ethical concepts, Justice may be the most significant for understanding this controversy.
+Justice concerns fairness.</p>
+<p>In the Meta case, there is an apparent imbalance:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>Benefits
+</span></span><span style="display:flex;"><span>•	Global users gain access to AI technologies.
+</span></span><span style="display:flex;"><span>•	Businesses gain productivity advantages.
+</span></span><span style="display:flex;"><span>•	Companies gain revenue and competitive advantages.
+</span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>Risks
+</span></span><span style="display:flex;"><span>•	Local communities experience the environmental impacts.
+</span></span><span style="display:flex;"><span>•	Residents face uncertainty about water resources.
+</span></span><span style="display:flex;"><span>•	Property owners absorb potential quality-of-life disruptions.
+</span></span></code></pre></div><p>This creates a classic ethical dilemma.</p>
+<blockquote>
+<h5 id="is-it-fair-for-a-small-number-of-residents-to-absorb-environmental-risks-so-that-society-as-a-whole-can-enjoy-the-benefits-of-ai-">Is it fair for a small number of residents to absorb environmental risks so that society as a whole can enjoy the benefits of AI ?</h5>
+</blockquote>
+<p>Even when a project complies with regulations, questions of justice may remain unresolved.</p>
+<h3 id="why-transparency-and-accountability-matter">Why Transparency and Accountability Matter</h3>
+<p>Another important principle is Explicability, which includes both Transparency and Accountability.</p>
+<p>When concerns emerged about the Georgia facility, residents wanted answers:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>•	How much water would the facility require ?
+</span></span><span style="display:flex;"><span>•	What environmental studies have been conducted ?
+</span></span><span style="display:flex;"><span>•	How would impacts be monitored ?
+</span></span><span style="display:flex;"><span>•	Who would be responsible if harm occurred ?
+</span></span></code></pre></div><p>These are fundamental questions about transparency and accountability.</p>
+<p>Without access to information, communities cannot meaningfully participate in decisions that affect them. Without accountability, public trust becomes difficult to maintain.</p>
+<blockquote>
+<p>Transparency is not merely a communication strategy. It is an ethical obligation.</p>
+</blockquote>
+<h3 id="soft-ethics-vs-legal-compliance">Soft Ethics vs. Legal Compliance</h3>
+<p>One of Floridi&rsquo;s most influential ideas is the distinction between regulation and ethics.</p>
+<p>A company may comply with every applicable law and still face legitimate ethical criticism.</p>
+<p>This is where Soft Ethics becomes important. Soft ethics asks organizations to go beyond minimum legal requirements and consider broader societal responsibilities.</p>
+<p>For example, even if regulations were technically satisfied, organizations could still choose to:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>•	Conduct independent environmental monitoring.
+</span></span><span style="display:flex;"><span>•	Share sustainability reports publicly.
+</span></span><span style="display:flex;"><span>•	Consult communities before expansion.
+</span></span><span style="display:flex;"><span>•	Establish long-term accountability programs.
+</span></span></code></pre></div><p>The key question becomes:</p>
+<blockquote>
+<p>What should we do? &quot; rather than &quot; What should organizations do? What are organizations legally allowed to do?</p>
+</blockquote>
+<p>This mindset represents the foundation of responsible innovation.</p>
+<h3 id="ai-governance-and-ethical-impact-assessments">AI Governance and Ethical Impact Assessments</h3>
+<p>The controversy also illustrates the importance of AI Governance and Ethical Impact Assessments <code>(EIAs)</code>.</p>
+<p>AI governance involves policies, oversight mechanisms, and accountability structures used to guide the development and deployment of AI systems.</p>
+<p>An Ethical Impact Assessment provides a proactive way to evaluate risks before projects are approved.</p>
+<p>Had such an assessment been more visible, it might have examined:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>•	Groundwater impacts
+</span></span><span style="display:flex;"><span>•	Community concerns
+</span></span><span style="display:flex;"><span>•	Sustainability challenges
+</span></span><span style="display:flex;"><span>•	Long-term monitoring requirements
+</span></span><span style="display:flex;"><span>•	Stakeholder participation mechanisms
+</span></span></code></pre></div><blockquote>
+<h5 id="the-goal-of-an-ethical-impact-assessment-is-not-to-stop-innovation-it-is-to-ensure-innovation-occurs-responsibly">The goal of an Ethical Impact Assessment is not to stop innovation. It is to ensure innovation occurs responsibly.</h5>
+</blockquote>
+<h3 id="sustainability-the-missing-ai-ethics-conversation">Sustainability: The Missing AI Ethics Conversation</h3>
+<p>The most important lesson from this case is the growing importance of Sustainability.</p>
+<p>For years, AI ethics focused primarily on fairness, privacy, and bias. Those topics remain important.</p>
+<p>However, AI systems now require unprecedented computing power, which means unprecedented demands for energy, water, and infrastructure.</p>
+<p>As AI capabilities grow, sustainability can no longer be treated as a separate environmental discussion.</p>
+<p>It is an AI ethics discussion.</p>
+<blockquote>
+<p>An AI system cannot be considered fully ethical if the infrastructure supporting it creates unsustainable environmental pressures.</p>
+</blockquote>
+<p>The Meta controversy reminds us that the future of AI depends not only on better algorithms, but also on responsible resource management.</p>
+<h3 id="final-thoughts">Final Thoughts</h3>
+<p>The controversy surrounding the <code>Meta Stanton Springs Data Center</code> challenges us to rethink what ethical AI really means.</p>
+<p>Using the concepts of Beneficence, Non-maleficence, Justice, Explicability, Soft Ethics, AI Governance, Ethical Impact Assessment, and Sustainability, this case demonstrates that ethical concerns can emerge long before an AI system interacts with a user.</p>
+<p>The families who filed complaints were not questioning the accuracy of an algorithm. They were questioning whether technological progress was occurring in a way that respected their community, environment, and quality of life. <code>[usatoday.com], [greyjournal.net]</code></p>
+<p>Ultimately, the lesson is simple:</p>
+<blockquote>
+<h5 id="the-future-of-ethical-ai-depends-not-only-on-building-smarter-systems-but-also-on-building-them-responsibly">The future of ethical AI depends not only on building smarter systems, but also on building them responsibly.</h5>
+</blockquote>
+<h3 id="references">References</h3>
+<p>•	Luciano Floridi, (2023). The Ethics of Artificial Intelligence: Principles, Challenges, and Opportunities. Oxford University Press.</p>
+<p>• Reports regarding allegations by residents near <code> Meta Stanton Springs Data Center</code>, concerning groundwater disruption, well-water contamination, property impacts, and community concerns related to the Meta Stanton Springs Data Center. [usatoday.com], [greyjournal.net]</p>
+<p>• Four Georgia families have filed a 180-page lawsuit against <code>Meta </code> and local development officials, alleging that the construction of the <code>Meta Stanton Springs Data Center</code> has contaminated their private well water and ruined their quality of life.</p>
+<p>Media reference links are listed below:</p>
+<p>•	https://greyjournal.net/hustle/work-tech/meta-data-center-georgia-water-crisis/</p>
+<p>•	https://www.usatoday.com/story/news/state/georgia/2026/09/02/meta-sued-by-georgia-families-following-construction-of-data-center/91578594007/</p>
+<p>•	https://www.reddit.com/r/Georgia/comments/1xcszs4/4_georgia_families_sue_meta_claim_data_center/</p>
+<p>•	https://www.facebook.com/100083241103501/videos/metas-massive-data-center-in-georgia-has-raised-serious-concerns-among-nearby-re/2424575424617973/</p>
+<p>•	https://www.ajc.com/news/2026/09/georgia-families-sue-meta-accuse-its-data-center-of-tainting-their-water/</p>
+<p>•	https://www.youtube.com/shorts/0mxeI1hhn-0</p>
+<p>•	https://www.youtube.com/watch?v=CQcLJNwN1j0</p>
+<p>•	https://www.usatoday.com/videos/news/politics/2026/05/22/aoc-presses-epa-data-center-water-contamination/90217057007/</p>
+<h3 id="skills-demonstrated">Skills Demonstrated:</h3>
+<blockquote>
+<p>AI Ethics Analysis, AI Governance, Sustainability Assessment, Ethical Impact Assessment (EIA), Stakeholder Analysis, Risk Assessment, and Evidence-Based Research.</p>
+</blockquote>
+<h3 id="key-strengths">Key Strengths:</h3>
+<blockquote>
+<p>Critical Thinking, Strategic Decision-Making, Technical Communication, and the ability to evaluate AI systems through environmental, social, business, and governance perspectives.</p>
+</blockquote>
+
+          </article>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-12 col-lg-3">
+        <div id="stickySideBar" class="sticky-sidebar">
+          
+          <aside class="toc">
+              <h5>
+                Table Of Contents
+              </h5>
+              <div class="toc-content">
+                <nav id="TableOfContents">
+  <ul>
+    <li><a href="#what-metas-georgia-data-center-teaches-us-about-ethical-ai">What Meta&rsquo;s Georgia Data Center Teaches Us About Ethical AI</a>
+      <ul>
+        <li><a href="#introduction">Introduction</a></li>
+        <li><a href="#the-families-behind-the-headlines">The Families Behind the Headlines</a></li>
+        <li><a href="#looking-beyond-the-algorithm">Looking Beyond the Algorithm</a></li>
+        <li><a href="#beneficence-does-ai-create-more-good-than-harm">Beneficence: Does AI Create More Good Than Harm?</a></li>
+        <li><a href="#non-maleficence-the-duty-to-avoid-harm">Non-Maleficence: The Duty to Avoid Harm</a></li>
+        <li><a href="#justice-the-most-important-question">Justice: The Most Important Question</a></li>
+        <li><a href="#why-transparency-and-accountability-matter">Why Transparency and Accountability Matter</a></li>
+        <li><a href="#soft-ethics-vs-legal-compliance">Soft Ethics vs. Legal Compliance</a></li>
+        <li><a href="#ai-governance-and-ethical-impact-assessments">AI Governance and Ethical Impact Assessments</a></li>
+        <li><a href="#sustainability-the-missing-ai-ethics-conversation">Sustainability: The Missing AI Ethics Conversation</a></li>
+        <li><a href="#final-thoughts">Final Thoughts</a></li>
+        <li><a href="#references">References</a></li>
+        <li><a href="#skills-demonstrated">Skills Demonstrated:</a></li>
+        <li><a href="#key-strengths">Key Strengths:</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+              </div>
+          </aside>
+          
+
+          
+          <aside class="tags">
+            <h5>Tags</h5>
+            <ul class="tags-ul list-unstyled list-inline">
+              
+              <li class="list-inline-item"><a href="/tags/ai-ethics/"
+                
+              >AI Ethics</a></li>
+              
+              <li class="list-inline-item"><a href="/tags/data-analysis/"
+                
+              >Data Analysis</a></li>
+              
+              <li class="list-inline-item"><a href="/tags/environmental-impact/"
+                
+              >Environmental Impact</a></li>
+              
+              <li class="list-inline-item"><a href="/tags/meta/"
+                
+              >Meta</a></li>
+              
+            </ul>
+          </aside>
+          
+
+          
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-12 col-md-12 col-lg-9 p-4">
+        
+      </div>
+    </div>
+  </div>
+  <button class="p-2 px-3" onclick="topFunction()" id="topScroll">
+    <i class="fas fa-angle-up"></i>
+  </button>
+</section>
+
+
+
+<script>
+  var topScroll = document.getElementById("topScroll");
+  window.onscroll = function() {scrollFunction()};
+
+  function scrollFunction() {
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+      topScroll.style.display = "block";
+    } else {
+      topScroll.style.display = "none";
+    }
+  }
+
+  function topFunction() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+  }
+
+  
+  let stickySideBarElem = document.getElementById("stickySideBar");
+  let stickyNavBar =  true ;
+  if(stickyNavBar) {
+    let headerElem = document.getElementById("profileHeader");
+    let headerHeight = headerElem.offsetHeight + 15;
+    stickySideBarElem.style.top = headerHeight + "px";
+  } else {
+    stickySideBarElem.style.top = "50px";
+  }
+</script>
+
+
+
+
+  </div><footer>
+    
+
+
+  
+
+ 
+
+<div class="text-center pt-2">
+    
+    <span class="px-1">
+        <a href="https://github.com/baggapoonam" target="_blank" aria-label="github">
+            <svg xmlns="http://www.w3.org/2000/svg" width="2.7em" height="2.7em" viewBox="0 0 1792 1792">
+                <path id="footer-socialNetworks-github-svg-path"
+                    d="M522 1352q-8 9-20-3-13-11-4-19 8-9 20 3 12 11 4 19zm-42-61q9 12 0 19-8 6-17-7t0-18q9-7 17 6zm-61-60q-5 7-13 2-10-5-7-12 3-5 13-2 10 5 7 12zm31 34q-6 7-16-3-9-11-2-16 6-6 16 3 9 11 2 16zm129 112q-4 12-19 6-17-4-13-15t19-7q16 5 13 16zm63 5q0 11-16 11-17 2-17-11 0-11 16-11 17-2 17 11zm58-10q2 10-14 14t-18-8 14-15q16-2 18 9zm964-956v960q0 119-84.5 203.5t-203.5 84.5h-224q-16 0-24.5-1t-19.5-5-16-14.5-5-27.5v-239q0-97-52-142 57-6 102.5-18t94-39 81-66.5 53-105 20.5-150.5q0-121-79-206 37-91-8-204-28-9-81 11t-92 44l-38 24q-93-26-192-26t-192 26q-16-11-42.5-27t-83.5-38.5-86-13.5q-44 113-7 204-79 85-79 206 0 85 20.5 150t52.5 105 80.5 67 94 39 102.5 18q-40 36-49 103-21 10-45 15t-57 5-65.5-21.5-55.5-62.5q-19-32-48.5-52t-49.5-24l-20-3q-21 0-29 4.5t-5 11.5 9 14 13 12l7 5q22 10 43.5 38t31.5 51l10 23q13 38 44 61.5t67 30 69.5 7 55.5-3.5l23-4q0 38 .5 103t.5 68q0 22-11 33.5t-22 13-33 1.5h-224q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" />
+
+                <metadata>
+                    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                        xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Description about="https://iconscout.com/legal#licenses"
+                            dc:title="Github, Online, Project, Hosting, Square"
+                            dc:description="Github, Online, Project, Hosting, Square" dc:publisher="Iconscout"
+                            dc:date="2016-12-14" dc:format="image/svg+xml" dc:language="en">
+                            <dc:creator>
+                                <rdf:Bag>
+                                    <rdf:li>Font Awesome</rdf:li>
+                                </rdf:Bag>
+                            </dc:creator>
+                        </rdf:Description>
+                    </rdf:RDF>
+                </metadata>
+            </svg>
+        </a>
+    </span>
+    
+
+    
+    <span class="px-1">
+        <a href="https://linkedin.com/in/poonam-bagga-17585524" target="_blank" aria-label="linkedin">
+            <svg xmlns="http://www.w3.org/2000/svg" width='2.4em' height='2.4em' fill="#fff" aria-label="LinkedIn"
+                viewBox="0 0 512 512">
+                <rect width="512" height="512" fill="#0077b5" rx="15%" />
+                <circle cx="142" cy="138" r="37" />
+                <path stroke="#fff" stroke-width="66" d="M244 194v198M142 194v198" />
+                <path d="M276 282c0-20 13-40 36-40 24 0 33 18 33 45v105h66V279c0-61-32-89-76-89-34 0-51 19-59 32" />
+            </svg>
+        </a>
+    </span>
+    
+
+    
+
+    
+
+    
+    <a href="https://facebook.com/baggapoonam" target="_blank" aria-label="facebook">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48px" height="48px">
+            <path fill="#3F51B5"
+                d="M42,37c0,2.762-2.238,5-5,5H11c-2.761,0-5-2.238-5-5V11c0-2.762,2.239-5,5-5h26c2.762,0,5,2.238,5,5V37z" />
+            <path fill="#FFF"
+                d="M34.368,25H31v13h-5V25h-3v-4h3v-2.41c0.002-3.508,1.459-5.59,5.592-5.59H35v4h-2.287C31.104,17,31,17.6,31,18.723V21h4L34.368,25z" />
+        </svg>
+    </a>
+    
+</div><div class="container py-4">
+    <div class="row justify-content-center">
+        <div class="col-md-4 text-center">
+            
+                <div class="pb-2">
+                    <a href="http://localhost:1313/" title="Poonam Bagga Profile">
+                        <img alt="Footer logo" src="/pblogo.png"
+                            height="40px" width="40px">
+                    </a>
+                </div>
+            
+            &copy; 2026  All rights reserved
+            <div class="text-secondary">
+                Made with
+                <span class="text-danger">
+                    &#10084;
+                </span>
+                and
+                <a href="https://github.com/gurusabarish/hugo-profile" target="_blank"
+                    title="Designed and developed by gurusabarish">
+                    Hugo Profile
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+</footer><script src="/bootstrap-5/js/bootstrap.bundle.min.js"></script>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.documentElement.classList.add('dark');
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+        document.documentElement.classList.remove('dark');
+    } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.documentElement.classList.add('dark');
+        document.body.classList.add('dark');
+    }
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            document.documentElement.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            document.documentElement.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+    var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+    var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+        return new bootstrap.Tooltip(tooltipTriggerEl)
+    })
+
+</script>
+
+
+    <script>
+      
+      window.searchIndexURL = "/index.json";
+    </script>
+    <script src="/js/search.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+  <section id="search-content" class="py-2">
+    <div class="container" id="search-results"></div>
+  </section>
+</body>
+
+</html>

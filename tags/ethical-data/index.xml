@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Ethical Data on Poonam Bagga Profile</title>
+		<link>http://localhost:1313/tags/ethical-data/</link>
+		<description>Recent content in Ethical Data on Poonam Bagga Profile</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 21 Oct 2026 21:29:21 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/ethical-data/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Beyond the Login</title>
+				<link>http://localhost:1313/blogs/ethics_blog/</link>
+				<pubDate>Wed, 21 Oct 2026 21:29:21 +0000</pubDate>
+				<guid>http://localhost:1313/blogs/ethics_blog/</guid>
+				<description>&lt;h2 id=&#34;can-anonymous-surveys-truly-be-anonymous&#34;&gt;Can Anonymous Surveys Truly Be Anonymous?&lt;/h2&gt;&#xA;&lt;p&gt;Before studying Data Analytics at TRIOS College, I believed that successful analysis depended mainly on technical skills such as Excel, SQL, data visualization, and statistical methods. This week&amp;rsquo;s study of data ethics changed my perspective. I learned that even the most sophisticated analysis can produce misleading results if ethical concerns affect the quality of the data being collected.&lt;/p&gt;&#xA;&lt;p&gt;One case that stood out involved a course evaluation survey. Students are required to log in using their username and password to access the survey, yet they are told that their responses will remain anonymous. As the data analyst responsible for providing recommendations to executive management, I must determine whether the survey data can be trusted and whether ethical concerns could affect the results.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

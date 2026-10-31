@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Markdown Syntax on Poonam Bagga Profile</title>
+		<link>http://localhost:1313/tags/markdown-syntax/</link>
+		<description>Recent content in Markdown Syntax on Poonam Bagga Profile</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 21 Oct 2026 21:29:21 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/markdown-syntax/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Beyond the Login</title>
+				<link>http://localhost:1313/blogs/ethics_blog/</link>
+				<pubDate>Wed, 21 Oct 2026 21:29:21 +0000</pubDate>
+				<guid>http://localhost:1313/blogs/ethics_blog/</guid>
+				<description>&lt;h2 id=&#34;can-anonymous-surveys-truly-be-anonymous&#34;&gt;Can Anonymous Surveys Truly Be Anonymous?&lt;/h2&gt;&#xA;&lt;p&gt;Before studying Data Analytics at TRIOS College, I believed that successful analysis depended mainly on technical skills such as Excel, SQL, data visualization, and statistical methods. This week&amp;rsquo;s study of data ethics changed my perspective. I learned that even the most sophisticated analysis can produce misleading results if ethical concerns affect the quality of the data being collected.&lt;/p&gt;&#xA;&lt;p&gt;One case that stood out involved a course evaluation survey. Students are required to log in using their username and password to access the survey, yet they are told that their responses will remain anonymous. As the data analyst responsible for providing recommendations to executive management, I must determine whether the survey data can be trusted and whether ethical concerns could affect the results.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Asking Right Questions</title>
+				<link>http://localhost:1313/blogs/asking_right_questions/</link>
+				<pubDate>Tue, 20 Oct 2026 07:27:30 +0000</pubDate>
+				<guid>http://localhost:1313/blogs/asking_right_questions/</guid>
+				<description>&lt;h2 id=&#34;understanding-the-problem&#34;&gt;Understanding the problem&lt;/h2&gt;&#xA;&lt;p&gt;One of the most valuable lessons I have learned throughout my career is that successful analysis starts with understanding the problem. Before working with data, I focus on understanding business problem, objectives, stakeholder needs, and the decisions that need to be made.&lt;/p&gt;&#xA;&lt;h2 id=&#34;asking-questions&#34;&gt;Asking Questions&lt;/h2&gt;&#xA;&lt;p&gt;WHY ASKING BETTER QUESTIONS MATTERS MORE THAN HAVING THE RIGHT ANSWERS&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;What happened? Why did it happen? What should we do next?&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Learning analytics reinforced what my experience had already taught me that asking the right questions often matters more than finding quick answers. Data can reveal what is happening, but thoughtful questions help uncover why it is happening.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Roadmap</title>
+				<link>http://localhost:1313/blogs/roadmap/</link>
+				<pubDate>Sun, 18 Oct 2026 23:29:21 +0000</pubDate>
+				<guid>http://localhost:1313/blogs/roadmap/</guid>
+				<description>&lt;h2 id=&#34;every-experience-became-a-building-block&#34;&gt;Every Experience Became a Building Block&lt;/h2&gt;&#xA;&lt;p&gt;My career began in business operations, where I developed skills in problem-solving, reporting, stakeholder collaboration, and process improvement. Over time, I became increasingly interested in how information could support better decision-making. Looking back, these experiences laid the foundation for analytical thinking long before I formally studied data analytics.&lt;/p&gt;&#xA;&lt;p&gt;Curiosity led me to explore data analytics, furthermore, learn visualization, and explore Artificial Intelligence. Today, I combine practical business experience with analytical tools to uncover insights, solve problems, and support informed decision-making.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Render Math With Mathjax</title>
+				<link>http://localhost:1313/blogs/math/</link>
+				<pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
+				<guid>http://localhost:1313/blogs/math/</guid>
+				<description>&lt;h2 id=&#34;mathjax&#34;&gt;Mathjax&lt;/h2&gt;&#xA;&lt;p&gt;Math equations can be rendered using &lt;a href=&#34;https://www.mathjax.org&#34;&gt;Mathjax&lt;/a&gt; syntax with AMS symbol support.&lt;/p&gt;&#xA;&lt;p&gt;Optionally enable this on a per-page basis by adding &lt;code&gt;mathjax: true&lt;/code&gt; to your frontmatter.&lt;/p&gt;&#xA;&lt;p&gt;Then, use &lt;code&gt;$$ ... $$&lt;/code&gt; on a line by itself to render a block equation:&lt;/p&gt;&#xA;&lt;p&gt;$$ | Pr_{x \leftarrow P_{1}} [A(x) = 1] - Pr_{x \leftarrow P_{2}} [A(x) = 1] | &amp;lt; \text{negligible} $$&lt;/p&gt;&#xA;&lt;p&gt;The raw version is:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$$ | Pr_{x \leftarrow P_{1}} [A(x) = 1] - Pr_{x \leftarrow P_{2}} [A(x) = 1] | &amp;lt; \text{negligible} $$&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Write in-line equations with &lt;code&gt;\\( ... \\)&lt;/code&gt; , like \( x^n / y \) . It&amp;rsquo;s easy!&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

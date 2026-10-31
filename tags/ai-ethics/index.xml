@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>AI Ethics on Poonam Bagga Profile</title>
+		<link>http://localhost:1313/tags/ai-ethics/</link>
+		<description>Recent content in AI Ethics on Poonam Bagga Profile</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 30 Oct 2026 11:18:21 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/ai-ethics/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Hidden Cost of AI</title>
+				<link>http://localhost:1313/blogs/ai_ethics/</link>
+				<pubDate>Fri, 30 Oct 2026 11:18:21 +0000</pubDate>
+				<guid>http://localhost:1313/blogs/ai_ethics/</guid>
+				<description>&lt;h2 id=&#34;what-metas-georgia-data-center-teaches-us-about-ethical-ai&#34;&gt;What Meta&amp;rsquo;s Georgia Data Center Teaches Us About Ethical AI&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Artificial intelligence may seem virtual, but every AI model depends on physical infrastructure, real resources, and real communities.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Artificial intelligence &lt;code&gt;(AI)&lt;/code&gt; is frequently associated with ethical concerns such as algorithmic bias, privacy violations, surveillance, and misinformation. While these issues dominate public discussions, they often overlook a less visible but equally important component of AI: the physical infrastructure that makes AI possible.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

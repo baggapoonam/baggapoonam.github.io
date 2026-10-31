@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Understand on Poonam Bagga Profile</title>
+		<link>http://localhost:1313/tags/understand/</link>
+		<description>Recent content in Understand on Poonam Bagga Profile</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 20 Oct 2026 07:27:30 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/understand/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Asking Right Questions</title>
+				<link>http://localhost:1313/blogs/asking_right_questions/</link>
+				<pubDate>Tue, 20 Oct 2026 07:27:30 +0000</pubDate>
+				<guid>http://localhost:1313/blogs/asking_right_questions/</guid>
+				<description>&lt;h2 id=&#34;understanding-the-problem&#34;&gt;Understanding the problem&lt;/h2&gt;&#xA;&lt;p&gt;One of the most valuable lessons I have learned throughout my career is that successful analysis starts with understanding the problem. Before working with data, I focus on understanding business problem, objectives, stakeholder needs, and the decisions that need to be made.&lt;/p&gt;&#xA;&lt;h2 id=&#34;asking-questions&#34;&gt;Asking Questions&lt;/h2&gt;&#xA;&lt;p&gt;WHY ASKING BETTER QUESTIONS MATTERS MORE THAN HAVING THE RIGHT ANSWERS&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;What happened? Why did it happen? What should we do next?&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Learning analytics reinforced what my experience had already taught me that asking the right questions often matters more than finding quick answers. Data can reveal what is happening, but thoughtful questions help uncover why it is happening.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

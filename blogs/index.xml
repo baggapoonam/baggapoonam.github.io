@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Blogs on Poonam Bagga Profile</title>
+		<link>http://localhost:1313/blogs/</link>
+		<description>Recent content in Blogs on Poonam Bagga Profile</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 30 Oct 2026 11:18:21 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Hidden Cost of AI</title>
+				<link>http://localhost:1313/blogs/ai_ethics/</link>
+				<pubDate>Fri, 30 Oct 2026 11:18:21 +0000</pubDate>
+				<guid>http://localhost:1313/blogs/ai_ethics/</guid>
+				<description>&lt;h2 id=&#34;what-metas-georgia-data-center-teaches-us-about-ethical-ai&#34;&gt;What Meta&amp;rsquo;s Georgia Data Center Teaches Us About Ethical AI&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Artificial intelligence may seem virtual, but every AI model depends on physical infrastructure, real resources, and real communities.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Artificial intelligence &lt;code&gt;(AI)&lt;/code&gt; is frequently associated with ethical concerns such as algorithmic bias, privacy violations, surveillance, and misinformation. While these issues dominate public discussions, they often overlook a less visible but equally important component of AI: the physical infrastructure that makes AI possible.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Behind Dashboards</title>
+				<link>http://localhost:1313/blogs/behind_dashboard/</link>
+				<pubDate>Mon, 26 Oct 2026 16:00:33 +0000</pubDate>
+				<guid>http://localhost:1313/blogs/behind_dashboard/</guid>
+				<description>&lt;h2 id=&#34;data-analytics-beyond-the-dashboard&#34;&gt;Data Analytics Beyond the Dashboard&lt;/h2&gt;&#xA;&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Many people associate data analytics with dashboards, reports, and charts. Yet the dashboard is often the smallest part of the analyst&amp;rsquo;s work.&lt;/p&gt;&#xA;&lt;p&gt;Behind every metrics, trend line, and KPI (Key Performance Indicator) lies a series of questions, investigations, validations, and business decisions. Before a chart reaches an executive meeting, an analyst has already spent hours in understanding the problem, examining the data, and determining whether the results can be trusted.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Building Trust</title>
+				<link>http://localhost:1313/blogs/trust/</link>
+				<pubDate>Sun, 25 Oct 2026 11:38:21 +0000</pubDate>
+				<guid>http://localhost:1313/blogs/trust/</guid>
+				<description>&lt;h2 id=&#34;building-trust-through-data&#34;&gt;Building Trust Through Data&lt;/h2&gt;&#xA;&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;When I first began my data analytics journey, I believed trust came from accurate calculations, dashboards, and technical skills. Over time, I realized that trust is not created by data alone. It is built when people understand the information, believe the evidence, and feel confident using trust to make decisions.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Trust is the bridge between data and action.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;An analyst may create an excellent report, but if stakeholders do not trust the findings, the analysis has little impact.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Beyond the Login</title>
+				<link>http://localhost:1313/blogs/ethics_blog/</link>
+				<pubDate>Wed, 21 Oct 2026 21:29:21 +0000</pubDate>
+				<guid>http://localhost:1313/blogs/ethics_blog/</guid>
+				<description>&lt;h2 id=&#34;can-anonymous-surveys-be-truly-anonymous&#34;&gt;Can Anonymous Surveys Be Truly Anonymous?&lt;/h2&gt;&#xA;&lt;p&gt;Before studying Data Analytics at TRIOS College, I believed that successful analysis depended mainly on technical skills such as Excel, SQL, data visualization, and statistical methods. This week&amp;rsquo;s study of data ethics changed my perspective. I learned that even the most sophisticated analysis can produce misleading results if ethical concerns affect the quality of the data being collected.&lt;/p&gt;&#xA;&lt;p&gt;One case that stood out involved a course evaluation survey. Students are required to log in using their username and password to access the survey, yet they are told that their responses will remain anonymous. As the data analyst responsible for providing recommendations to executive management, I must determine whether the survey data can be trusted and whether ethical concerns could affect the results.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Asking Right Questions</title>
+				<link>http://localhost:1313/blogs/asking_right_questions/</link>
+				<pubDate>Tue, 20 Oct 2026 07:27:30 +0000</pubDate>
+				<guid>http://localhost:1313/blogs/asking_right_questions/</guid>
+				<description>&lt;h2 id=&#34;understanding-the-problem&#34;&gt;Understanding the problem&lt;/h2&gt;&#xA;&lt;p&gt;One of the most valuable lessons I have learned throughout my career is that successful analysis starts with understanding the problem. Before working with data, I focus on understanding business problem, objectives, stakeholder needs, and the decisions that need to be made.&lt;/p&gt;&#xA;&lt;h2 id=&#34;asking-questions&#34;&gt;Asking Questions&lt;/h2&gt;&#xA;&lt;p&gt;WHY ASKING BETTER QUESTIONS MATTERS MORE THAN HAVING THE RIGHT ANSWERS&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;What happened? Why did it happen? What should we do next?&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Learning analytics reinforced what my experience had already taught me that asking the right questions often matters more than finding quick answers. Data can reveal what is happening, but thoughtful questions help uncover why it is happening.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>The Roadmap</title>
+				<link>http://localhost:1313/blogs/roadmap/</link>
+				<pubDate>Sun, 18 Oct 2026 23:29:21 +0000</pubDate>
+				<guid>http://localhost:1313/blogs/roadmap/</guid>
+				<description>&lt;h2 id=&#34;every-experience-became-a-building-block&#34;&gt;Every Experience Became a Building Block&lt;/h2&gt;&#xA;&lt;p&gt;My career began in business operations, where I developed skills in problem-solving, reporting, stakeholder collaboration, and process improvement. Over time, I became increasingly interested in how information could support better decision-making. Looking back, these experiences laid the foundation for analytical thinking long before I formally studied data analytics.&lt;/p&gt;&#xA;&lt;p&gt;Curiosity led me to explore data analytics, furthermore, learn visualization, and explore Artificial Intelligence. Today, I combine practical business experience with analytical tools to uncover insights, solve problems, and support informed decision-making.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
